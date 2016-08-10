@@ -20,11 +20,11 @@
     },
     {
       "label": "Abilita controlli",
-      "description": "I controlli consentono all'utente di mettere in pausa, per esempio l'audio."
+      "description": "I controlli consentono, per esempio, all'utente di mettere in pausa l'audio."
     },
     {
       "label": "Abilita autoplay",
-      "description": "Con l'autoplay l'audio si avvia immediatamente. Se lìautoplay è disattivato l'utente premerà il pulsante play per avviare l'audio."
+      "description": "Con l'autoplay l'audio si avvia immediatamente. Se l'autoplay è disattivato l'utente premerà il pulsante play per avviare l'audio."
     },
     {
       "label": "Informazioni Copyright",
